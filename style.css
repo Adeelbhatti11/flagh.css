@@ -1,0 +1,32 @@
+body{
+    background: #eee;
+    
+}
+.container{
+    margin-top:100px;
+    margin-left: 300px;
+    width: 800px;
+    height: 500px;
+    border: 3px solid black;
+    box-shadow: 10px 10px 8px 5px gray;
+    
+}
+
+.white{
+    width: 250px;
+    height: 500px;
+    background-color: white;
+   float: left;
+}
+.green{
+    width: 550px;
+    height: 500px;
+    background-color: green;
+   float: left;
+}
+.star{
+    
+    margin-top: 100px;
+    margin-left: 150px;
+    mix-blend-mode: multiply;
+}
